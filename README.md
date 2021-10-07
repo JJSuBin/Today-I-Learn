@@ -19,7 +19,10 @@
       * [네트워크 구성](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chpater%2002/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B5%AC%EC%84%B1.md)
       * [네트워크 형태](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chpater%2002/02.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%ED%98%95%ED%83%9C.md)
       * [네트워크 접속 장치](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chpater%2002/03.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%A0%91%EC%86%8D%20%EC%9E%A5%EC%B9%98.md)
-      
+      * [네트워크 접속 형테](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2002/04.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%A0%91%EC%86%8D%20%ED%98%95%ED%83%9C.md)
+      * [네트워크 전송 매체](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2002/05.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%A0%84%EC%86%A1%20%EB%A7%A4%EC%B2%B4.md)
+  
+  * Chapter 03 네트워크 통신  
 
 
 ## 📒 운영체제
