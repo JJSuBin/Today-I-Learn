@@ -8,6 +8,17 @@
 📔 『운영체제(공룡책)』 silberschatz
 
 ## 📕 데이터베이스
+  * Chapter 01 데이터베이스 기본 개념
+      * [데이터베이스의 필요성](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2001/01.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98%20%ED%95%84%EC%9A%94%EC%84%B1.md)
+      * [데이터베이스의 정의와 특징](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2001/02.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%ED%8A%B9%EC%A7%95.md)
+      * [데이터와 데이터베이스](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2001/03.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
+   
+   * Chapter 02 데이터베이스 관리 시스템
+      * [데이터베이스 관리 시스템 등장 배경](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2002/01.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%93%B1%EC%9E%A5%20%EB%B0%B0%EA%B2%BD.md)
+      * [데이터베이스 관리 시스템의 정의](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2002/02.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EC%A0%95%EC%9D%98.md)
+      * [데이터베이스 관리 시스템의 장단점](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2002/03.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90.md)
+      * [데이터베이스 관리 시스템의 발전 과정](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2002/04.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%B0%9C%EC%A0%84%20%EA%B3%BC%EC%A0%95.md)
+
 
 ## 📙 컴퓨터 네트워크
   * Chapter 01 네트워크 이해와 설정
