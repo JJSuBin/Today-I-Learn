@@ -1,0 +1,20 @@
+## 📒 Chapter 03 데이터베이스 시스템
+### 📗 02 데이터베이스 구조
+
+💡 스키마
+
+    스키마란 데이터베이스에 저장되는 데이터 구조와 제약조건을 정의한 것이다. 그리고 정의된 스키마에 따라 데이터베이스에 실제로 저장된 값을 인스턴스라 한다.
+    스키마는 한번 정의되면 자주 변경되지 않지만, 인스턴스는 계속 변하는 특징이 있다. 
+</br>
+
+💡 3단계 데이터베이스 구조
+<p align="center"><img src="https://user-images.githubusercontent.com/45066381/136752813-1bed365a-cbd7-4639-9ddb-5fb3ad6d3111.png" width="800" height="500"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45066381/136752621-90c926c1-ed43-4f40-a71a-93181088d0a8.png" width="800" height="500"/></p>
+
+
+
+
+</br>
+
+
+💡 ◻️ ◼️ 📗 📒 📘 📌 📍
