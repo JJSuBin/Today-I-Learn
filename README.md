@@ -26,6 +26,14 @@
        * [데이터 언어](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2003/04.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%96%B8%EC%96%B4.md)
        * [데이터베이스 관리 시스템의 구성](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2003/05.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EA%B5%AC%EC%84%B1.md)
 
+   * Chapter 04 데이터 모델링
+       * [데이터 모델링과 데이터 모델의 개념](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2004/01.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EA%B0%9C%EB%85%90.md)
+       * [개체-관계 모델](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2004/02.%20%EA%B0%9C%EC%B2%B4-%EA%B4%80%EA%B3%84%20%EB%AA%A8%EB%8D%B8.md)
+       * [논리적 데이터 모델](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2004/03.%20%EB%85%BC%EB%A6%AC%EC%A0%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8.md)
+
+   * Chapter 05 관계 데이터 모델
+
+
 ## 📙 컴퓨터 네트워크
   * Chapter 01 네트워크 이해와 설정
       * [네트워크의 이해](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2001/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EC%9D%B4%ED%95%B4)
