@@ -51,5 +51,10 @@
       * [통신 방식](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2003/01.%20%ED%86%B5%EC%8B%A0%20%EB%B0%A9%EC%8B%9D.md)
       * [통신 오류 검출](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2003/02.%20%ED%86%B5%EC%8B%A0%20%EC%98%A4%EB%A5%98%20%EA%B2%80%EC%B6%9C.md)
       * [근거리 네트워크](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2003/03.%20%EA%B7%BC%EA%B1%B0%EB%A6%AC%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
+      * [광역 네트워크](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2003/04.%20%EA%B4%91%EC%97%AD%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
+      * [무선 네트워크](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2003/05.%20%EB%AC%B4%EC%84%A0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
+
+  * Chapter 04 OSI 참조 모델
+
 
 ## 📒 운영체제
