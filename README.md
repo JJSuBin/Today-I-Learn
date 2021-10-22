@@ -58,6 +58,10 @@
       * [무선 네트워크](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2003/05.%20%EB%AC%B4%EC%84%A0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 
   * Chapter 04 OSI 참조 모델
-
+      * [OSI 참조 모델의 개요](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2004/01.%20OSI%20%EC%B0%B8%EC%A1%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EA%B0%9C%EC%9A%94.md)
+      * [OSI 참조 모델의 데이터 전송](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2004/02.%20OSI%20%EC%B0%B8%EC%A1%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1.md)
+      * [네트워크 접속 계층](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2004/03.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%A0%91%EC%86%8D%20%EA%B3%84%EC%B8%B5.md)
+      * [물리 계층](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2004/04.%20%EB%AC%BC%EB%A6%AC%20%EA%B3%84%EC%B8%B5.md)
+      * [데이터 링크 계층](https://github.com/JJSuBin/Today-I-Learn/blob/main/NetWork/Chapter%2004/05.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5.md)
 
 ## 📒 운영체제
