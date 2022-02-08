@@ -35,12 +35,22 @@
        * [관계 데이터 모델의 개념](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chpater%2005/01.%20%EA%B4%80%EA%B3%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EA%B0%9C%EB%85%90.md)
        * [관계 데이터 모델의 제약](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chpater%2005/02.%20%EA%B4%80%EA%B3%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EC%A0%9C%EC%95%BD.md)
 
-   * Chapter 06 관계 데이터 연산
-       * [관계 데이터 연산의 개념](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2006/01.%20%EA%B4%80%EA%B3%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%B0%EC%82%B0%EC%9D%98%20%EA%B0%9C%EB%85%90.md)
-       * [관계 대수](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2006/02.%20%EA%B4%80%EA%B3%84%20%EB%8C%80%EC%88%98.md)
-       * [관계 해석]()
+   * [Chapter 06 관계 데이터 연산](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2006/Chapter%2006.pdf)
  
-   * Chapter 07 데이터베이스 언어 SQL
+   * [Chapter 07 데이터베이스 언어 SQL](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2007/Chapter%2007.pdf)
+   
+   * [Chapter 08 데이터베이스 설계](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2008/Chapter%2008.pdf)
+   
+   * [Chapter 09 정규화](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2009/9%EC%9E%A5.pdf)
+   
+   * Chapter 10 회복과 병행제어
+
+      * [회복](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2010/10%EC%9E%A5%20-1.pdf)
+      * [병행제어](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2010/10-2.pdf)
+
+   * [Chapter 11 보안과 권한 관리](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2011/11.pdf)
+
+   * [Chapter 13 데이터 과학과 데이터](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2013/13%EC%9E%A5.pdf)
 
 
 ## 📙 컴퓨터 네트워크
