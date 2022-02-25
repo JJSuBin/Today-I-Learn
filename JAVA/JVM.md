@@ -25,7 +25,7 @@
 ### 💡 자바 프로그램 실행 과정
 <p align="center"><img src="https://user-images.githubusercontent.com/45066381/155668918-773efe25-efd9-461f-b9db-d19fdfc31817.png" width="600" height="400"/></p>
     
-    1. 프로그램이 실행되면 JVM은 OS로 부터 프로그램이 필요로 하는 메모리를 할당받는다. JVM은 이 메모리를 용도에 따라 여러 영역으로 나눠 관리
+    1. 프로그램이 실행되면 JVM은 OS로 부터 프로그램이 필요로 하는 메모리를 할당 받음, JVM은 이 메모리를 용도에 따라 여러 영역으로 나눠 관리
     2. javac(자바 컴파일러)가 자바 소스코드(.java)를 읽어들여 자바 바이트코드(.class)로 변환
     3. Class Loader를 통해 class 파일들을 JVM으로 로딩
         -> 츠로그램이 필요한 클래스들을 로딩하여 런타임 영역인 JVM 메모리로 로딩
