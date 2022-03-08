@@ -32,7 +32,7 @@
        * [논리적 데이터 모델](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2004/03.%20%EB%85%BC%EB%A6%AC%EC%A0%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8.md)
 
    * Chapter 05 관계 데이터 모델
-       * [관계 데이터 모델의 개념](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chpater%2005/01.%20%EA%B4%80%EA%B3%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EA%B0%9C%EB%85%90.md)
+       * [관계 데이터 모델의 개념](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2005/01.%20%EA%B4%80%EA%B3%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EA%B0%9C%EB%85%90.md)
        * [관계 데이터 모델의 제약](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chpater%2005/02.%20%EA%B4%80%EA%B3%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EC%A0%9C%EC%95%BD.md)
 
    * [Chapter 06 관계 데이터 연산](https://github.com/JJSuBin/Today-I-Learn/blob/main/DataBase/Chapter%2006/Chapter%2006.pdf)
